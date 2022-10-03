@@ -1,0 +1,4 @@
+---
+BasedOnStyle: Google
+AllowShortIfStatementsOnASingleLine: Never
+BreakBeforeBinaryOperators: NonAssignment
